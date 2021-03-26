@@ -4,7 +4,7 @@ Backend python server for a simple Slackr
 
 Oct 2019 - Nov 2019
 
-Created a backend python server for a simple Slackr and implement many basic functions, such as send message, upload photo and so on.
+Created a backend python server for a simple Slackr and implemented many basic functions like login, logout, register, create/list/remove/leave channel, send/edit/delete/pin/read/react message, upload photo, edit profile and so on.
 
 Backend and test code in the server folder.
 
